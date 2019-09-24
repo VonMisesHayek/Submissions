@@ -5,4 +5,5 @@ Here is a list of the problems with corresponding time and memory used.
 
 |Problem|Time|Memory|Date|
 | -- | -- | -- | -- |
-| 4A-8 | 62ms | 0KB | May102019 |
+| 4A-8 | 62ms | 0KB | May/10/2019 |
+|71A-14|31ms|0KB|May/11/2019|
