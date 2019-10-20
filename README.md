@@ -1,7 +1,7 @@
 # Codeforces
 My solutions to some Codeforces problems. My Codeforces handle is `friedrich_hayek`.
 
-Here is a list of the problems with corresponding time and memory used. Last problem added: Stones on the Table.
+Here is a list of the problems with corresponding time and memory used, the language is GNUC11. Last problem added: System Administrator.
 
 |Problem|Time|Memory|Date|
 | -- | -- | -- | -- |
