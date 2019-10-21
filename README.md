@@ -1,11 +1,11 @@
 # Codeforces
 My solutions to some Codeforces problems. My Codeforces handle is `friedrich_hayek`.
 
-Here is a list of the problems with corresponding time and memory used, the language is GNUC11. Last problem added: System Administrator.
+Here is a list of the problems with corresponding time and memory used, the language is GNUC11. Last problem added: Repeating Cipher.
 
 |Problem|Time|Memory|Date|
 | -- | -- | -- | -- |
 | 4A-8 | 62ms | 0KB | May/10/2019 |
 |71A-14|31ms|0KB|May/11/2019|
 
-Note: As of 10-18-2019 there are 226 solutions, so it will take a while to put them all here.
+Note: As of 10-21-2019 there are 230 solutions, so it will take a while to put them all here.
