@@ -1,0 +1,454 @@
+,#,When,Who,Problem,Lang,Verdict,Time,Memory
+0,65401506,Nov/20/2019 01:43,friedrich_hayek,B - Delete from the Left,GNU C11,Accepted,31 ms,400 KB
+1,65401082,Nov/20/2019 01:16,friedrich_hayek,A - A Serial Killer,GNU C11,Accepted,31 ms,0 KB
+2,65342971,Nov/19/2019 14:37,friedrich_hayek,A - Yellow Cards,GNU C11,Accepted,46 ms,0 KB
+3,65342843,Nov/19/2019 14:35,friedrich_hayek,A - Yellow Cards,GNU C11,Wrong answer on test 7,15 ms,0 KB
+4,65312444,Nov/18/2019 18:51,friedrich_hayek,A - Second Order Statistics,GNU C11,Accepted,62 ms,0 KB
+5,65311883,Nov/18/2019 18:39,friedrich_hayek,A - Palindromic Twist,GNU C11,Accepted,31 ms,0 KB
+6,65296060,Nov/18/2019 14:32,friedrich_hayek,A - Magic Numbers,GNU C11,Accepted,62 ms,0 KB
+7,65273850,Nov/18/2019 00:58,friedrich_hayek,B - Disturbed People,GNU C11,Accepted,31 ms,0 KB
+8,65266771,Nov/17/2019 20:27,friedrich_hayek,A - Shaass and Oskols,GNU C11,Accepted,62 ms,0 KB
+9,65257151,Nov/17/2019 16:48,friedrich_hayek,A - Broken Keyboard,GNU C11,Accepted,31 ms,0 KB
+10,65255241,Nov/17/2019 16:13,friedrich_hayek,A - Ostap and Grasshopper,GNU C11,Accepted,31 ms,0 KB
+11,65215064,Nov/16/2019 21:17,friedrich_hayek,A - Andryusha and Socks,GNU C11,Accepted,62 ms,400 KB
+12,65211788,Nov/16/2019 21:06,friedrich_hayek,A - Two Rival Students,GNU C11,Accepted,31 ms,0 KB
+13,65108365,Nov/15/2019 23:31,friedrich_hayek,A - PolandBall and Hypothesis,GNU C11,Accepted,31 ms,0 KB
+14,65105166,Nov/15/2019 21:58,friedrich_hayek,A - Duff and Meat,GNU C11,Accepted,46 ms,800 KB
+15,64906625,Nov/15/2019 01:32,friedrich_hayek,A - Cashier,GNU C11,Accepted,62 ms,0 KB
+16,64878694,Nov/14/2019 13:51,friedrich_hayek,B - Badge,GNU C11,Accepted,31 ms,0 KB
+17,64798314,Nov/13/2019 16:41,friedrich_hayek,A - Okabe and Future Gadget Laboratory,GNU C11,Accepted,31 ms,0 KB
+18,64797190,Nov/13/2019 16:18,friedrich_hayek,A - Neverending competitions,GNU C11,Accepted,31 ms,0 KB
+19,64761748,Nov/12/2019 22:19,friedrich_hayek,B - Strings Equalization,GNU C11,Accepted,31 ms,0 KB
+20,64760544,Nov/12/2019 21:58,friedrich_hayek,A - Parity,GNU C11,Accepted,31 ms,0 KB
+21,64742506,Nov/12/2019 15:26,friedrich_hayek,A - Kefa and First Steps,GNU C11,Accepted,46 ms,0 KB
+22,64717170,Nov/12/2019 02:21,friedrich_hayek,A - Borya's Diagnosis,GNU C11,Accepted,93 ms,0 KB
+23,64716780,Nov/12/2019 01:53,friedrich_hayek,A - 2048 Game,GNU C11,Accepted,31 ms,0 KB
+24,64708283,Nov/11/2019 20:28,friedrich_hayek,A - City Day,GNU C11,Accepted,46 ms,400 KB
+25,64708179,Nov/11/2019 20:26,friedrich_hayek,A - City Day,GNU C11,Wrong answer on test 38,46 ms,400 KB
+26,64704131,Nov/11/2019 18:50,friedrich_hayek,B - Maximal Continuous Rest,GNU C11,Accepted,46 ms,2300 KB
+27,64702909,Nov/11/2019 18:26,friedrich_hayek,A - Detective Book,GNU C11,Wrong answer on test 6,15 ms,0 KB
+28,64609396,Nov/10/2019 02:40,friedrich_hayek,B - Different is Good,GNU C11,Accepted,31 ms,0 KB
+29,64609332,Nov/10/2019 02:37,friedrich_hayek,B - Different is Good,GNU C11,Wrong answer on test 30,46 ms,0 KB
+30,64609316,Nov/10/2019 02:36,friedrich_hayek,B - Different is Good,GNU C11,Wrong answer on test 11,31 ms,0 KB
+31,64609263,Nov/10/2019 02:33,friedrich_hayek,B - Different is Good,GNU C11,Wrong answer on test 8,31 ms,0 KB
+32,64609100,Nov/10/2019 02:22,friedrich_hayek,A - Splits,GNU C11,Accepted,31 ms,0 KB
+33,64603552,Nov/09/2019 22:24,friedrich_hayek,B - Equalize Prices,GNU C11,Accepted,31 ms,0 KB
+34,64603482,Nov/09/2019 22:22,friedrich_hayek,B - Equalize Prices,GNU C11,Wrong answer on test 2,15 ms,0 KB
+35,64598871,Nov/09/2019 20:51,friedrich_hayek,A - Valera and Antique Items,GNU C11,Accepted,31 ms,0 KB
+36,64598809,Nov/09/2019 20:49,friedrich_hayek,A - Valera and Antique Items,GNU C11,Wrong answer on test 3,15 ms,0 KB
+37,64598078,Nov/09/2019 20:34,friedrich_hayek,A - Valera and Antique Items,GNU C11,Wrong answer on test 3,15 ms,0 KB
+38,64593213,Nov/09/2019 18:34,friedrich_hayek,A - Hongcow Learns the Cyclic Shift,GNU C11,Accepted,31 ms,0 KB
+39,64539262,Nov/08/2019 21:02,friedrich_hayek,A - Diverse Substring,GNU C11,Accepted,265 ms,0 KB
+40,64539179,Nov/08/2019 21:00,friedrich_hayek,A - Diverse Substring,GNU C11,Wrong answer on test 6,265 ms,0 KB
+41,64535810,Nov/08/2019 19:56,friedrich_hayek,A - Oath of the Night's Watch,GNU C11,Accepted,31 ms,400 KB
+42,64527193,Nov/08/2019 17:10,friedrich_hayek,B - Mislove Has Lost an Array,GNU C11,Accepted,30 ms,0 KB
+43,64496035,Nov/08/2019 02:55,friedrich_hayek,B - Discounts,GNU C11,Time limit exceeded on test 5,2500 ms,4700 KB
+44,64488511,Nov/07/2019 21:50,friedrich_hayek,A - Chores,GNU C11,Accepted,31 ms,0 KB
+45,64485775,Nov/07/2019 20:43,friedrich_hayek,A - Rock-paper-scissors,GNU C11,Accepted,62 ms,0 KB
+46,64460497,Nov/07/2019 13:11,friedrich_hayek,A - Coder,GNU C11,Accepted,62 ms,0 KB
+47,64431779,Nov/07/2019 00:45,friedrich_hayek,A - Important Exam,GNU C11,Accepted,124 ms,3900 KB
+48,64368075,Nov/06/2019 16:33,friedrich_hayek,B - DZY Loves Strings,GNU C11,Accepted,31 ms,0 KB
+49,64365179,Nov/06/2019 15:50,friedrich_hayek,A - Arya and Bran,GNU C11,Accepted,31 ms,0 KB
+50,64364559,Nov/06/2019 15:40,friedrich_hayek,A - Arya and Bran,GNU C11,Wrong answer on test 5,15 ms,0 KB
+51,64363551,Nov/06/2019 15:24,friedrich_hayek,A - Splitting in Teams,GNU C11,Accepted,61 ms,0 KB
+52,64338679,Nov/06/2019 03:24,friedrich_hayek,A - Ball Game,GNU C11,Wrong answer on test 3,30 ms,0 KB
+53,64338101,Nov/06/2019 02:47,friedrich_hayek,A - Gravity Flip,GNU C11,Accepted,31 ms,0 KB
+54,64337929,Nov/06/2019 02:35,friedrich_hayek,A - Nastya and an Array,GNU C11,Accepted,46 ms,800 KB
+55,64337754,Nov/06/2019 02:24,friedrich_hayek,A - Nastya and an Array,GNU C11,Time limit exceeded on test 6,1000 ms,400 KB
+56,64337722,Nov/06/2019 02:22,friedrich_hayek,A - Nastya and an Array,GNU C11,Wrong answer on test 4,15 ms,0 KB
+57,64326855,Nov/05/2019 20:39,friedrich_hayek,A - Cupboards,GNU C11,Wrong answer on test 3,30 ms,0 KB
+58,64326587,Nov/05/2019 20:33,friedrich_hayek,A - Cupboards,GNU C11,Wrong answer on test 2,30 ms,0 KB
+59,64308330,Nov/05/2019 15:01,friedrich_hayek,B - Array Stabilization,GNU C11,Accepted,46 ms,400 KB
+60,64308247,Nov/05/2019 15:00,friedrich_hayek,B - Array Stabilization,GNU C11,Wrong answer on test 3,30 ms,400 KB
+61,64307976,Nov/05/2019 14:56,friedrich_hayek,B - Array Stabilization,GNU C11,Wrong answer on test 3,31 ms,400 KB
+62,64302396,Nov/05/2019 13:29,friedrich_hayek,A - Is it rated?,GNU C11,Accepted,31 ms,0 KB
+63,64267264,Nov/04/2019 20:45,friedrich_hayek,A - Minimum Difficulty,GNU C11,Accepted,31 ms,0 KB
+64,64266366,Nov/04/2019 20:29,friedrich_hayek,A - Candy Bags,GNU C11,Accepted,92 ms,0 KB
+65,64180987,Nov/04/2019 03:35,friedrich_hayek,A - Detective Book,GNU C11,Wrong answer on test 3,15 ms,0 KB
+66,64180219,Nov/04/2019 02:45,friedrich_hayek,A - DZY Loves Hash,GNU C11,Accepted,31 ms,0 KB
+67,64180198,Nov/04/2019 02:44,friedrich_hayek,A - DZY Loves Hash,GNU C11,Wrong answer on test 11,30 ms,0 KB
+68,64168290,Nov/03/2019 20:16,friedrich_hayek,A - Diagonal Walking,GNU C11,Accepted,31 ms,0 KB
+69,64167145,Nov/03/2019 19:45,friedrich_hayek,A - Yet Another Dividing into Teams,GNU C11,Accepted,31 ms,0 KB
+70,64109800,Nov/02/2019 21:12,friedrich_hayek,A - Superhero Transformation,GNU C11,Wrong answer on test 34,31 ms,0 KB
+71,64109351,Nov/02/2019 21:01,friedrich_hayek,A - Juicer,GNU C11,Wrong answer on test 5,31 ms,0 KB
+72,64109142,Nov/02/2019 20:56,friedrich_hayek,A - Juicer,GNU C11,Wrong answer on test 5,31 ms,0 KB
+73,64108458,Nov/02/2019 20:39,friedrich_hayek,A - I Wanna Be the Guy,GNU C11,Accepted,31 ms,0 KB
+74,64049036,Nov/01/2019 23:38,friedrich_hayek,A - Find Square,GNU C11,Accepted,31 ms,0 KB
+75,63993630,Nov/01/2019 16:54,friedrich_hayek,A - Bear and Game,GNU C11,Wrong answer on test 7,15 ms,0 KB
+76,63993441,Nov/01/2019 16:51,friedrich_hayek,A - Bear and Game,GNU C11,Wrong answer on test 4,15 ms,0 KB
+77,63948662,Oct/31/2019 23:01,friedrich_hayek,A - Line to Cashier,GNU C11,Accepted,31 ms,0 KB
+78,63946414,Oct/31/2019 22:08,friedrich_hayek,A - Grasshopper And the String,GNU C11,Accepted,31 ms,0 KB
+79,63946275,Oct/31/2019 22:05,friedrich_hayek,A - Grasshopper And the String,GNU C11,Wrong answer on test 10,15 ms,0 KB
+80,63946233,Oct/31/2019 22:03,friedrich_hayek,A - Grasshopper And the String,GNU C11,Wrong answer on test 4,31 ms,0 KB
+81,63945615,Oct/31/2019 21:50,friedrich_hayek,A - Epic Game,GNU C11,Accepted,62 ms,0 KB
+82,63882622,Oct/31/2019 00:57,friedrich_hayek,A - Twins,GNU C11,Accepted,62 ms,0 KB
+83,63882272,Oct/31/2019 00:43,friedrich_hayek,A - Book Reading,GNU C11,Accepted,15 ms,0 KB
+84,63881716,Oct/31/2019 00:21,friedrich_hayek,A - Dragons,GNU C11,Accepted,62 ms,0 KB
+85,63881694,Oct/31/2019 00:20,friedrich_hayek,A - Dragons,GNU C11,Wrong answer on test 9,60 ms,0 KB
+86,63881341,Oct/31/2019 00:09,friedrich_hayek,A - Dragons,GNU C11,Wrong answer on test 4,62 ms,0 KB
+87,63878918,Oct/30/2019 23:00,friedrich_hayek,A - Romaji,GNU C11,Accepted,31 ms,0 KB
+88,63741544,Oct/29/2019 20:07,friedrich_hayek,A - Stock Arbitraging,GNU C11,Accepted,31 ms,0 KB
+89,63732355,Oct/29/2019 17:23,friedrich_hayek,A - Search for Pretty Integers,GNU C11,Accepted,31 ms,0 KB
+90,63730113,Oct/29/2019 16:47,friedrich_hayek,A - Tetris,GNU C11,Accepted,31 ms,0 KB
+91,63729391,Oct/29/2019 16:35,friedrich_hayek,A - Fraction,GNU C11,Accepted,31 ms,0 KB
+92,63653854,Oct/28/2019 15:09,friedrich_hayek,A - Equalize Prices Again,GNU C11,Accepted,31 ms,0 KB
+93,63653291,Oct/28/2019 15:00,friedrich_hayek,A - Vanya and Cubes,GNU C11,Wrong answer on test 3,15 ms,0 KB
+94,63555140,Oct/27/2019 15:41,friedrich_hayek,A - Soft Drinking,GNU C11,Accepted,62 ms,0 KB
+95,63379140,Oct/25/2019 14:57,friedrich_hayek,A - Gotta Catch Em' All!,GNU C11,Wrong answer on test 13,31 ms,0 KB
+96,63378926,Oct/25/2019 14:53,friedrich_hayek,A - Gotta Catch Em' All!,GNU C11,Wrong answer on test 7,15 ms,0 KB
+97,63350099,Oct/25/2019 00:16,friedrich_hayek,A - Panoramix's Prediction,GNU C11,Accepted,62 ms,0 KB
+98,63293025,Oct/24/2019 15:15,friedrich_hayek,A - Kefa and First Steps,GNU C11,Time limit exceeded on test 13,2000 ms,800 KB
+99,63292937,Oct/24/2019 15:14,friedrich_hayek,A - Kefa and First Steps,GNU C11,Wrong answer on test 9,31 ms,100 KB
+100,63291566,Oct/24/2019 14:53,friedrich_hayek,A - The number of positions,GNU C11,Accepted,62 ms,0 KB
+101,63291232,Oct/24/2019 14:48,friedrich_hayek,A - The number of positions,GNU C11,Wrong answer on test 5,30 ms,0 KB
+102,63290294,Oct/24/2019 14:34,friedrich_hayek,A - Die Roll,GNU C11,Accepted,62 ms,0 KB
+103,63289444,Oct/24/2019 14:21,friedrich_hayek,A - Wet Shark and Odd and Even,GNU C11,Accepted,46 ms,0 KB
+104,63289335,Oct/24/2019 14:19,friedrich_hayek,A - Wet Shark and Odd and Even,GNU C11,Wrong answer on test 9,46 ms,0 KB
+105,63205028,Oct/23/2019 02:06,friedrich_hayek,A - Stones,GNU C11,Accepted,31 ms,0 KB
+106,63204509,Oct/23/2019 01:41,friedrich_hayek,A - Ehab and another construction problem,GNU C11,Accepted,31 ms,0 KB
+107,63120486,Oct/22/2019 14:02,friedrich_hayek,A - Fraction,GNU C11,Wrong answer on test 4,15 ms,0 KB
+108,63101786,Oct/22/2019 04:15,friedrich_hayek,A - Cakeminator,GNU C11,Accepted,30 ms,0 KB
+109,63094466,Oct/21/2019 22:52,friedrich_hayek,A - Bear and Five Cards,GNU C11,Accepted,31 ms,0 KB
+110,63093892,Oct/21/2019 22:37,friedrich_hayek,A - Game,GNU C11,Accepted,31 ms,0 KB
+111,63090672,Oct/21/2019 21:18,friedrich_hayek,B - Margarite and the best present,GNU C11,Accepted,46 ms,0 KB
+112,63090376,Oct/21/2019 21:11,friedrich_hayek,B - Margarite and the best present,GNU C11,Wrong answer on test 3,31 ms,0 KB
+113,63089961,Oct/21/2019 21:01,friedrich_hayek,B - Two-gram,GNU C11,Accepted,31 ms,0 KB
+114,63089864,Oct/21/2019 20:59,friedrich_hayek,B - Two-gram,GNU C11,Wrong answer on test 4,15 ms,0 KB
+115,62894267,Oct/19/2019 01:28,friedrich_hayek,A - Be Positive,GNU C11,Accepted,31 ms,0 KB
+116,62893850,Oct/19/2019 01:08,friedrich_hayek,A - Find Extra One,GNU C11,Accepted,62 ms,0 KB
+117,62862776,Oct/18/2019 14:19,friedrich_hayek,B - Two-gram,GNU C11,Wrong answer on test 2,15 ms,0 KB
+118,62835465,Oct/18/2019 01:07,friedrich_hayek,A - Vanya and Cards,GNU C11,Accepted,31 ms,0 KB
+119,62652650,Oct/16/2019 01:37,friedrich_hayek,A - Death Note,GNU C11,Accepted,733 ms,0 KB
+120,62652283,Oct/16/2019 01:23,friedrich_hayek,A - Tricky Alchemy,GNU C11,Accepted,31 ms,0 KB
+121,62586879,Oct/14/2019 22:13,friedrich_hayek,A - Paint the Numbers,GNU C11,Accepted,31 ms,0 KB
+122,62523756,Oct/13/2019 19:36,friedrich_hayek,A - Pens and Pencils,GNU C11,Accepted,31 ms,0 KB
+123,62522444,Oct/13/2019 19:11,friedrich_hayek,A - CME,GNU C11,Accepted,31 ms,0 KB
+124,62417814,Oct/12/2019 15:05,friedrich_hayek,A - XORinacci,GNU C11,Time limit exceeded on test 2,1000 ms,0 KB
+125,62375599,Oct/11/2019 20:09,friedrich_hayek,A - Ropewalkers,GNU C11,Accepted,31 ms,0 KB
+126,61879551,Oct/05/2019 01:12,friedrich_hayek,A - Prefixes,GNU C11,Accepted,46 ms,200 KB
+127,61842558,Oct/04/2019 13:13,friedrich_hayek,A - Palindromic Supersequence,GNU C11,Accepted,31 ms,0 KB
+128,61808863,Oct/04/2019 03:33,friedrich_hayek,A - Dawid and Bags of Candies,GNU C11,Accepted,31 ms,0 KB
+129,61808773,Oct/04/2019 03:27,friedrich_hayek,A - Dawid and Bags of Candies,GNU C11,Wrong answer on test 9,31 ms,0 KB
+130,61808696,Oct/04/2019 03:23,friedrich_hayek,A - Distinct Digits,GNU C11,Accepted,31 ms,0 KB
+131,61217286,Sep/24/2019 16:03,friedrich_hayek,A - Far Relative’s Birthday Cake,GNU C11,Accepted,31 ms,0 KB
+132,61175524,Sep/23/2019 21:18,friedrich_hayek,A - Far Relative’s Birthday Cake,GNU C11,Compilation error,0 ms,0 KB
+133,60847474,Sep/19/2019 16:00,friedrich_hayek,A - A pile of stones,GNU C11,Accepted,31 ms,0 KB
+134,60846240,Sep/19/2019 15:38,friedrich_hayek,A - Remove a Progression,GNU C11,Accepted,31 ms,0 KB
+135,60845775,Sep/19/2019 15:30,friedrich_hayek,A - Cards,GNU C11,Accepted,109 ms,0 KB
+136,60770091,Sep/18/2019 15:23,friedrich_hayek,A - Puzzles,GNU C11,Accepted,62 ms,0 KB
+137,60770005,Sep/18/2019 15:21,friedrich_hayek,A - Puzzles,GNU C11,Wrong answer on test 2,30 ms,0 KB
+138,60692407,Sep/16/2019 20:54,friedrich_hayek,A - Sushi for Two,GNU C11,Wrong answer on test 4,15 ms,0 KB
+139,60648146,Sep/15/2019 20:58,friedrich_hayek,B - Queue at the School,GNU C11,Accepted,62 ms,0 KB
+140,60504707,Sep/13/2019 23:41,friedrich_hayek,A - Stickers and Toys,GNU C11,Accepted,31 ms,0 KB
+141,60504128,Sep/13/2019 23:20,friedrich_hayek,A - Chips Moving,GNU C11,Accepted,31 ms,0 KB
+142,60464104,Sep/13/2019 02:19,friedrich_hayek,A - Ilya and Bank Account,GNU C11,Accepted,62 ms,0 KB
+143,60464059,Sep/13/2019 02:16,friedrich_hayek,A - Ilya and Bank Account,GNU C11,Wrong answer on test 7,30 ms,0 KB
+144,60461588,Sep/12/2019 23:59,friedrich_hayek,B - Letters Rearranging,GNU C11,Accepted,296 ms,0 KB
+145,60461368,Sep/12/2019 23:50,friedrich_hayek,B - Letters Rearranging,GNU C11,Wrong answer on test 3,280 ms,0 KB
+146,59482846,Aug/25/2019 19:33,friedrich_hayek,A - Mashmokh and Lights,GNU C11,Accepted,31 ms,0 KB
+147,59406938,Aug/24/2019 17:16,friedrich_hayek,A - There Are Two Types Of Burgers,GNU C11,Accepted,15 ms,0 KB
+148,59239102,Aug/21/2019 21:45,friedrich_hayek,B - Borze,GNU C11,Accepted,62 ms,0 KB
+149,59192835,Aug/21/2019 01:49,friedrich_hayek,A - Amusing Joke,GNU C11,Accepted,60 ms,0 KB
+150,59192458,Aug/21/2019 01:23,friedrich_hayek,A - Choose Two Numbers,GNU C11,Accepted,31 ms,0 KB
+151,59112656,Aug/20/2019 01:12,friedrich_hayek,A - Right-Left Cipher,GNU C11,Accepted,31 ms,0 KB
+152,58926418,Aug/16/2019 22:46,friedrich_hayek,A - Maximum Increase,GNU C11,Accepted,31 ms,0 KB
+153,58925913,Aug/16/2019 22:29,friedrich_hayek,A - Rewards,GNU C11,Accepted,31 ms,0 KB
+154,58925832,Aug/16/2019 22:26,friedrich_hayek,A - Rewards,GNU C11,Wrong answer on test 5,15 ms,0 KB
+155,58905178,Aug/16/2019 13:48,friedrich_hayek,A - Circle Line,GNU C11,Accepted,60 ms,0 KB
+156,58904828,Aug/16/2019 13:38,friedrich_hayek,A - Friends Meeting,GNU C11,Accepted,31 ms,0 KB
+157,58878296,Aug/15/2019 22:10,friedrich_hayek,A - Sereja and Mugs,GNU C11,Accepted,31 ms,0 KB
+158,58877791,Aug/15/2019 21:52,friedrich_hayek,B - Reversing Encryption,GNU C11,Accepted,31 ms,0 KB
+159,58877220,Aug/15/2019 21:34,friedrich_hayek,A - Elevator or Stairs?,GNU C11,Accepted,31 ms,0 KB
+160,58871082,Aug/15/2019 18:28,friedrich_hayek,B - Sale,GNU C11,Accepted,62 ms,0 KB
+161,58870549,Aug/15/2019 18:13,friedrich_hayek,A - System of Equations,GNU C11,Accepted,62 ms,0 KB
+162,58869950,Aug/15/2019 17:57,friedrich_hayek,A - Helpful Maths,GNU C11,Accepted,62 ms,0 KB
+163,58861285,Aug/15/2019 14:43,friedrich_hayek,A - Silent Classroom,GNU C11,Wrong answer on test 11,15 ms,0 KB
+164,58836761,Aug/15/2019 00:37,friedrich_hayek,B - Cover Points,GNU C11,Accepted,46 ms,0 KB
+165,58780030,Aug/13/2019 22:05,friedrich_hayek,A - Nearest Interesting Number,GNU C11,Accepted,31 ms,0 KB
+166,58779189,Aug/13/2019 21:46,friedrich_hayek,A - Hungry Student Problem,GNU C11,Accepted,30 ms,0 KB
+167,58778551,Aug/13/2019 21:33,friedrich_hayek,A - Chips,GNU C11,Accepted,62 ms,0 KB
+168,58777872,Aug/13/2019 21:19,friedrich_hayek,A - Coder,GNU C11,Time limit exceeded on test 10,1000 ms,0 KB
+169,58684893,Aug/13/2019 00:42,friedrich_hayek,A - Lunch Rush,GNU C11,Accepted,62 ms,0 KB
+170,58684674,Aug/13/2019 00:28,friedrich_hayek,A - Rounding,GNU C11,Accepted,31 ms,0 KB
+171,58684210,Aug/13/2019 00:02,friedrich_hayek,A - Insomnia cure,GNU C11,Accepted,62 ms,0 KB
+172,58683903,Aug/12/2019 23:46,friedrich_hayek,A - Quirky Quantifiers,GNU C11,Accepted,31 ms,0 KB
+173,58630544,Aug/11/2019 22:33,friedrich_hayek,A - Vasya and Chocolate,GNU C11,Runtime error on test 2,15 ms,0 KB
+174,58630194,Aug/11/2019 22:22,friedrich_hayek,A - Splitting into digits,GNU C11,Accepted,31 ms,0 KB
+175,58630132,Aug/11/2019 22:20,friedrich_hayek,A - Splitting into digits,GNU C11,Wrong answer on test 4,15 ms,0 KB
+176,58575582,Aug/11/2019 15:13,friedrich_hayek,A - Chores,GNU C11,Accepted,31 ms,0 KB
+177,58575136,Aug/11/2019 15:02,friedrich_hayek,A - Summer Camp,GNU C11,Accepted,31 ms,0 KB
+178,58551466,Aug/10/2019 23:15,friedrich_hayek,A - Divide it!,GNU C11,Accepted,31 ms,0 KB
+179,58551085,Aug/10/2019 22:57,friedrich_hayek,A - Little C Loves 3 I,GNU C11,Accepted,31 ms,0 KB
+180,58550926,Aug/10/2019 22:50,friedrich_hayek,A - Two distinct points,GNU C11,Accepted,31 ms,0 KB
+181,58550906,Aug/10/2019 22:49,friedrich_hayek,A - Two distinct points,GNU C11,Wrong answer on test 2,15 ms,0 KB
+182,58193712,Aug/03/2019 00:36,friedrich_hayek,B - Borze,GNU C11,Wrong answer on test 4,30 ms,0 KB
+183,58193684,Aug/03/2019 00:35,friedrich_hayek,B - Borze,GNU C11,Wrong answer on test 1,30 ms,0 KB
+184,58193580,Aug/03/2019 00:29,friedrich_hayek,A - Taymyr is calling you,GNU C11,Accepted,31 ms,0 KB
+185,58193526,Aug/03/2019 00:27,friedrich_hayek,A - Taymyr is calling you,GNU C11,Wrong answer on test 4,15 ms,0 KB
+186,58193367,Aug/03/2019 00:18,friedrich_hayek,A - Sasha and Sticks,GNU C11,Accepted,31 ms,0 KB
+187,57820911,Jul/27/2019 02:07,friedrich_hayek,A - Generous Kefa,GNU C11,Accepted,31 ms,0 KB
+188,57763958,Jul/25/2019 22:12,friedrich_hayek,A - Supermarket,GNU C11,Wrong answer on test 12,31 ms,0 KB
+189,57763885,Jul/25/2019 22:09,friedrich_hayek,A - Supermarket,GNU C11,Wrong answer on test 12,31 ms,0 KB
+190,57763517,Jul/25/2019 22:00,friedrich_hayek,A - New Year and Hurry,GNU C11,Accepted,31 ms,0 KB
+191,57763347,Jul/25/2019 21:56,friedrich_hayek,A - New Year and Hurry,GNU C11,Wrong answer on test 5,30 ms,0 KB
+192,57763040,Jul/25/2019 21:48,friedrich_hayek,A - Three Piles of Candies,GNU C11,Accepted,31 ms,0 KB
+193,57286992,Jul/18/2019 18:01,friedrich_hayek,A - Search for Pretty Integers,GNU C11,Wrong answer on test 4,31 ms,0 KB
+194,57286384,Jul/18/2019 17:48,friedrich_hayek,A - Crazy Computer,GNU C11,Accepted,46 ms,0 KB
+195,57279544,Jul/18/2019 15:13,friedrich_hayek,A - Got Any Grapes?,GNU C11,Accepted,31 ms,0 KB
+196,57142386,Jul/16/2019 14:39,friedrich_hayek,A - Sea Battle,GNU C11,Accepted,31 ms,0 KB
+197,57093161,Jul/15/2019 14:24,friedrich_hayek,A - Theatre Square,GNU C11,Accepted,31 ms,0 KB
+198,57092440,Jul/15/2019 14:12,friedrich_hayek,A - Eleven,GNU C11,Accepted,31 ms,0 KB
+199,57091901,Jul/15/2019 14:02,friedrich_hayek,A - Patrick and Shopping,GNU C11,Accepted,30 ms,0 KB
+200,57091792,Jul/15/2019 14:00,friedrich_hayek,A - Patrick and Shopping,GNU C11,Wrong answer on test 4,15 ms,0 KB
+201,57069114,Jul/15/2019 04:23,friedrich_hayek,A - Free Ice Cream,GNU C11,Accepted,31 ms,0 KB
+202,57045918,Jul/14/2019 18:58,friedrich_hayek,A - Diverse Strings,GNU C11,Accepted,31 ms,0 KB
+203,57040845,Jul/14/2019 18:38,friedrich_hayek,A - Domino piling,GNU C11,Accepted,62 ms,0 KB
+204,57038776,Jul/14/2019 18:31,friedrich_hayek,A - Tokitsukaze and Enhancement,GNU C11,Accepted,31 ms,0 KB
+205,56993109,Jul/13/2019 22:38,friedrich_hayek,A - Another One Bites The Dust,GNU C11,Accepted,31 ms,0 KB
+206,56982108,Jul/13/2019 17:18,friedrich_hayek,A - Pasha and Hamsters,GNU C11,Accepted,31 ms,0 KB
+207,56973057,Jul/13/2019 14:05,friedrich_hayek,A - Minimum Binary Number,GNU C11,Accepted,30 ms,0 KB
+208,56972983,Jul/13/2019 14:04,friedrich_hayek,A - Minimum Binary Number,GNU C11,Wrong answer on test 7,31 ms,0 KB
+209,56972566,Jul/13/2019 13:54,friedrich_hayek,B - Anton and Digits,GNU C11,Accepted,31 ms,0 KB
+210,56945894,Jul/13/2019 01:11,friedrich_hayek,A - Memory and Crow,GNU C11,Accepted,451 ms,800 KB
+211,56945591,Jul/13/2019 00:52,friedrich_hayek,A - Perfect Permutation,GNU C11,Accepted,62 ms,0 KB
+212,56706644,Jul/08/2019 14:18,friedrich_hayek,A - Cookies,GNU C11,Accepted,62 ms,0 KB
+213,56705953,Jul/08/2019 14:05,friedrich_hayek,A - New Year and the Christmas Ornament,GNU C11,Accepted,31 ms,0 KB
+214,56686628,Jul/08/2019 02:30,friedrich_hayek,A - Arrays,GNU C11,Accepted,61 ms,1600 KB
+215,56686511,Jul/08/2019 02:20,friedrich_hayek,A - Keanu Reeves,GNU C11,Accepted,31 ms,0 KB
+216,56672095,Jul/07/2019 16:35,friedrich_hayek,A - Series of Crimes,GNU C11,Accepted,62 ms,0 KB
+217,56638945,Jul/07/2019 01:42,friedrich_hayek,A - Water Buying,GNU C11,Accepted,31 ms,0 KB
+218,56638339,Jul/07/2019 00:58,friedrich_hayek,A - Buy a Shovel,GNU C11,Accepted,31 ms,0 KB
+219,56594697,Jul/05/2019 21:49,friedrich_hayek,A - Bank Robbery,GNU C11,Accepted,46 ms,0 KB
+220,56594231,Jul/05/2019 21:36,friedrich_hayek,A - Arpa and a research in Mexican wave,GNU C11,Accepted,31 ms,0 KB
+221,56593894,Jul/05/2019 21:27,friedrich_hayek,A - Definite Game,GNU C11,Accepted,31 ms,0 KB
+222,56593787,Jul/05/2019 21:25,friedrich_hayek,A - Definite Game,GNU C11,Wrong answer on test 6,15 ms,0 KB
+223,56593511,Jul/05/2019 21:18,friedrich_hayek,A - Alex and a Rhombus,GNU C11,Accepted,31 ms,0 KB
+224,56534648,Jul/05/2019 02:00,friedrich_hayek,A - Andryusha and Socks,GNU C11,Wrong answer on test 4,31 ms,800 KB
+225,56534624,Jul/05/2019 01:58,friedrich_hayek,A - Andryusha and Socks,GNU C11,Wrong answer on test 4,46 ms,400 KB
+226,56534300,Jul/05/2019 01:31,friedrich_hayek,A - Calculating Function,GNU C11,Accepted,31 ms,0 KB
+227,56534177,Jul/05/2019 01:23,friedrich_hayek,A - Crazy Computer,GNU C11,Wrong answer on test 3,15 ms,0 KB
+228,56529626,Jul/04/2019 21:56,friedrich_hayek,A - Love Triangle,GNU C11,Accepted,31 ms,0 KB
+229,56528919,Jul/04/2019 21:34,friedrich_hayek,A - Golden Plate,GNU C11,Accepted,31 ms,0 KB
+230,56492733,Jul/04/2019 03:03,friedrich_hayek,A - Romaji,GNU C11,Wrong answer on test 1,15 ms,0 KB
+231,56492591,Jul/04/2019 02:51,friedrich_hayek,A - Quirky Quantifiers,GNU C11,Wrong answer on test 1,0 ms,0 KB
+232,56492572,Jul/04/2019 02:48,friedrich_hayek,A - Levko and Table,GNU C11,Accepted,78 ms,0 KB
+233,56481603,Jul/03/2019 19:22,friedrich_hayek,A - Buying A House,GNU C11,Accepted,31 ms,0 KB
+234,56443965,Jul/02/2019 20:54,friedrich_hayek,A - Doggo Recoloring,GNU C11,Accepted,46 ms,100 KB
+235,56443915,Jul/02/2019 20:52,friedrich_hayek,A - Doggo Recoloring,GNU C11,Wrong answer on test 4,15 ms,0 KB
+236,56432564,Jul/02/2019 15:42,friedrich_hayek,A - Triangular numbers,GNU C11,Accepted,62 ms,0 KB
+237,56432000,Jul/02/2019 15:26,friedrich_hayek,A - Reconnaissance,GNU C11,Accepted,62 ms,0 KB
+238,56428375,Jul/02/2019 13:50,friedrich_hayek,A - Garden,GNU C11,Accepted,31 ms,0 KB
+239,56427938,Jul/02/2019 13:37,friedrich_hayek,A - Choosing Teams,GNU C11,Accepted,31 ms,0 KB
+240,56398440,Jul/01/2019 18:42,friedrich_hayek,A - Piles With Stones,GNU C11,Accepted,31 ms,0 KB
+241,56309093,Jun/30/2019 16:44,friedrich_hayek,A - Little Artem and Presents,GNU C11,Accepted,31 ms,0 KB
+242,56308716,Jun/30/2019 16:31,friedrich_hayek,A - Heist,GNU C11,Accepted,31 ms,0 KB
+243,56285422,Jun/29/2019 22:17,friedrich_hayek,A - Sleuth,GNU C11,Accepted,62 ms,0 KB
+244,56284922,Jun/29/2019 22:00,friedrich_hayek,A - Game Shopping,GNU C11,Accepted,31 ms,0 KB
+245,56279253,Jun/29/2019 18:53,friedrich_hayek,A - Petya and Origami,GNU C11,Accepted,31 ms,0 KB
+246,56273918,Jun/29/2019 16:19,friedrich_hayek,G - University Classes,GNU C11,Accepted,31 ms,0 KB
+247,56273051,Jun/29/2019 15:56,friedrich_hayek,A - Army,GNU C11,Accepted,62 ms,0 KB
+248,56271787,Jun/29/2019 15:24,friedrich_hayek,A - Vus the Cossack and a Contest,GNU C11,Accepted,31 ms,0 KB
+249,56249127,Jun/29/2019 04:05,friedrich_hayek,A - Word Correction,GNU C11,Accepted,31 ms,0 KB
+250,56245796,Jun/29/2019 00:02,friedrich_hayek,A - Pangram,GNU C11,Accepted,31 ms,0 KB
+251,56245716,Jun/28/2019 23:59,friedrich_hayek,A - Pangram,GNU C11,Wrong answer on test 8,30 ms,0 KB
+252,56245436,Jun/28/2019 23:47,friedrich_hayek,A - Ultra-Fast Mathematician,GNU C11,Accepted,31 ms,0 KB
+253,56244814,Jun/28/2019 23:23,friedrich_hayek,A - Design Tutorial: Learn from Math,GNU C11,Accepted,31 ms,0 KB
+254,56244728,Jun/28/2019 23:19,friedrich_hayek,B - Keyboard Layouts,GNU C11,Accepted,31 ms,0 KB
+255,56226815,Jun/28/2019 15:53,friedrich_hayek,B - Keyboard Layouts,GNU C11,Compilation error,0 ms,0 KB
+256,56225701,Jun/28/2019 15:12,friedrich_hayek,A - Sereja and Dima,GNU C11,Accepted,31 ms,0 KB
+257,56180299,Jun/28/2019 01:41,friedrich_hayek,A - Vasya and Chocolate,GNU C11,Runtime error on test 2,0 ms,0 KB
+258,56177908,Jun/27/2019 23:24,friedrich_hayek,A - Zoning Restrictions Again,GNU C11,Accepted,31 ms,0 KB
+259,56177431,Jun/27/2019 23:04,friedrich_hayek,A - Adjacent Replacements,GNU C11,Accepted,31 ms,0 KB
+260,56163452,Jun/27/2019 16:18,friedrich_hayek,A - Elections,GNU C11,Accepted,31 ms,0 KB
+261,56050880,Jun/25/2019 22:01,friedrich_hayek,A - Phone Numbers,GNU C11,Accepted,31 ms,0 KB
+262,56050659,Jun/25/2019 21:53,friedrich_hayek,B - Decoding,GNU C11,Accepted,31 ms,0 KB
+263,56014934,Jun/24/2019 23:26,friedrich_hayek,A - Tom Riddle's Diary,GNU C11,Accepted,31 ms,0 KB
+264,55980242,Jun/23/2019 23:19,friedrich_hayek,A - Compote,GNU C11,Accepted,31 ms,0 KB
+265,55843000,Jun/20/2019 22:11,friedrich_hayek,A - Find Square,GNU C11,Wrong answer on test 4,15 ms,0 KB
+266,55828270,Jun/20/2019 14:55,friedrich_hayek,A - Neko Finds Grapes,GNU C11,Accepted,61 ms,0 KB
+267,55827647,Jun/20/2019 14:39,friedrich_hayek,A - A Good Contest,GNU C11,Accepted,31 ms,0 KB
+268,55827180,Jun/20/2019 14:27,friedrich_hayek,A - Playing with Dice,GNU C11,Accepted,31 ms,0 KB
+269,55805307,Jun/20/2019 00:41,friedrich_hayek,A - Olympiad,GNU C11,Accepted,31 ms,0 KB
+270,55805130,Jun/20/2019 00:32,friedrich_hayek,A - Roma and Lucky Numbers,GNU C11,Accepted,62 ms,0 KB
+271,55804921,Jun/20/2019 00:23,friedrich_hayek,A - Colorful Stones (Simplified Edition),GNU C11,Accepted,62 ms,0 KB
+272,55804766,Jun/20/2019 00:16,friedrich_hayek,A - Partition,GNU C11,Accepted,31 ms,0 KB
+273,55795981,Jun/19/2019 20:03,friedrich_hayek,A - Telephone Number,GNU C11,Accepted,31 ms,0 KB
+274,55763363,Jun/19/2019 18:09,friedrich_hayek,A - Frog Jumping,GNU C11,Accepted,46 ms,0 KB
+275,55751870,Jun/19/2019 16:13,friedrich_hayek,A - One-dimensional Japanese Crossword,GNU C11,Accepted,31 ms,0 KB
+276,55751249,Jun/19/2019 15:52,friedrich_hayek,A - Lunar New Year and Cross Counting,GNU C11,Accepted,62 ms,200 KB
+277,55748501,Jun/19/2019 14:24,friedrich_hayek,A - Uniform String,GNU C11,Accepted,31 ms,0 KB
+278,55730445,Jun/18/2019 23:43,friedrich_hayek,A - Combination Lock,GNU C11,Accepted,31 ms,0 KB
+279,55729194,Jun/18/2019 22:43,friedrich_hayek,A - Key races,GNU C11,Accepted,31 ms,0 KB
+280,55728822,Jun/18/2019 22:29,friedrich_hayek,A - Cards,GNU C11,Accepted,31 ms,0 KB
+281,55696157,Jun/18/2019 01:20,friedrich_hayek,A - Two distinct points,GNU C11,Wrong answer on test 2,15 ms,0 KB
+282,55696032,Jun/18/2019 01:10,friedrich_hayek,A - Summer Camp,GNU C11,Wrong answer on test 7,30 ms,0 KB
+283,55695208,Jun/18/2019 00:08,friedrich_hayek,A - Little Pony and Crystal Mine,GNU C11,Accepted,46 ms,0 KB
+284,55694926,Jun/17/2019 23:52,friedrich_hayek,A - Bus to Udayland,GNU C11,Accepted,46 ms,0 KB
+285,55677610,Jun/17/2019 14:19,friedrich_hayek,A - Equality,GNU C11,Accepted,31 ms,0 KB
+286,55677028,Jun/17/2019 13:59,friedrich_hayek,A2 - Good Matrix Elements,GNU C11,Accepted,62 ms,0 KB
+287,55676843,Jun/17/2019 13:53,friedrich_hayek,A - Nauuo and Votes,GNU C11,Accepted,31 ms,0 KB
+288,55509778,Jun/12/2019 23:59,friedrich_hayek,A - Night at the Museum,GNU C11,Accepted,31 ms,0 KB
+289,55509147,Jun/12/2019 23:19,friedrich_hayek,A - New Year and Counting Cards,GNU C11,Accepted,31 ms,0 KB
+290,55450060,Jun/11/2019 16:53,friedrich_hayek,A - Games,GNU C11,Accepted,60 ms,0 KB
+291,55448435,Jun/11/2019 16:44,friedrich_hayek,A - Anton and Letters,GNU C11,Accepted,31 ms,0 KB
+292,55448140,Jun/11/2019 16:43,friedrich_hayek,A - Anton and Letters,GNU C11,Wrong answer on test 1,15 ms,0 KB
+293,55429382,Jun/11/2019 13:37,friedrich_hayek,A - QAQ,GNU C11,Accepted,30 ms,0 KB
+294,55409651,Jun/10/2019 21:47,friedrich_hayek,A - Opponents,GNU C11,Accepted,31 ms,0 KB
+295,55382421,Jun/10/2019 01:07,friedrich_hayek,A - Team Olympiad,GNU C11,Accepted,78 ms,0 KB
+296,55380930,Jun/09/2019 23:34,friedrich_hayek,A - Brain's Photos,GNU C11,Accepted,31 ms,0 KB
+297,55364101,Jun/09/2019 19:00,friedrich_hayek,A - Is your horseshoe on the other hoof?,GNU C11,Accepted,60 ms,0 KB
+298,55361071,Jun/09/2019 18:47,friedrich_hayek,A - Team,GNU C11,Accepted,60 ms,0 KB
+299,55331348,Jun/09/2019 14:10,friedrich_hayek,A - Coins,GNU C11,Accepted,31 ms,0 KB
+300,55310718,Jun/08/2019 20:25,friedrich_hayek,A - Theatre Square,GNU C11,Wrong answer on test 9,30 ms,0 KB
+301,55310514,Jun/08/2019 20:18,friedrich_hayek,A - Black Square,GNU C11,Accepted,31 ms,0 KB
+302,55310338,Jun/08/2019 20:11,friedrich_hayek,A - Word,GNU C11,Accepted,62 ms,0 KB
+303,55310085,Jun/08/2019 20:02,friedrich_hayek,A - New Year and Hurry,GNU C11,Wrong answer on test 5,15 ms,0 KB
+304,55303188,Jun/08/2019 15:55,friedrich_hayek,A - Флеш-карты,GNU C11,Accepted,31 ms,0 KB
+305,55301535,Jun/08/2019 15:15,friedrich_hayek,A - The New Year: Meeting Friends,GNU C11,Accepted,31 ms,0 KB
+306,55300413,Jun/08/2019 14:48,friedrich_hayek,A - Find Divisible,GNU C11,Accepted,15 ms,0 KB
+307,55299562,Jun/08/2019 14:25,friedrich_hayek,A - Diverse Team,GNU C11,Accepted,46 ms,0 KB
+308,55276821,Jun/07/2019 22:44,friedrich_hayek,A - Nearly Lucky Number,GNU C11,Accepted,62 ms,0 KB
+309,55276473,Jun/07/2019 22:29,friedrich_hayek,A1 - Good Matrix Elements,GNU C11,Accepted,60 ms,0 KB
+310,55276263,Jun/07/2019 22:20,friedrich_hayek,A - Bear and Reverse Radewoosh,GNU C11,Accepted,31 ms,0 KB
+311,55275810,Jun/07/2019 21:58,friedrich_hayek,A - Vitaly and Night,GNU C11,Accepted,31 ms,0 KB
+312,55225832,Jun/07/2019 04:10,friedrich_hayek,A - Game,GNU C11,Accepted,31 ms,0 KB
+313,55225796,Jun/07/2019 04:08,friedrich_hayek,A - Game,GNU C11,Wrong answer on test 4,15 ms,0 KB
+314,55225696,Jun/07/2019 03:59,friedrich_hayek,A - Even Substrings,GNU C11,Accepted,31 ms,0 KB
+315,55222985,Jun/07/2019 00:18,friedrich_hayek,B - Teams Forming,GNU C11,Accepted,30 ms,0 KB
+316,55222840,Jun/07/2019 00:09,friedrich_hayek,A - Scarborough Fair,GNU C11,Accepted,31 ms,0 KB
+317,55209023,Jun/06/2019 16:49,friedrich_hayek,A - The Rank,GNU C11,Accepted,31 ms,0 KB
+318,55208657,Jun/06/2019 16:40,friedrich_hayek,A - Repeating Cipher,GNU C11,Accepted,30 ms,0 KB
+319,55162429,Jun/05/2019 19:10,friedrich_hayek,A - Black Square,GNU C11,Wrong answer on test 1,15 ms,0 KB
+320,55150224,Jun/05/2019 18:25,friedrich_hayek,A - Bachgold Problem,GNU C11,Accepted,171 ms,0 KB
+321,55139211,Jun/05/2019 17:56,friedrich_hayek,A - Maximum in Table,GNU C11,Accepted,31 ms,0 KB
+322,55129357,Jun/05/2019 17:27,friedrich_hayek,A - Presents,GNU C11,Accepted,62 ms,0 KB
+323,55128942,Jun/05/2019 17:14,friedrich_hayek,A - Mahmoud and Ehab and the even-odd game,GNU C11,Accepted,31 ms,0 KB
+324,55061350,Jun/04/2019 02:08,friedrich_hayek,A - Bulbs,GNU C11,Accepted,31 ms,0 KB
+325,55061203,Jun/04/2019 01:55,friedrich_hayek,A - Mishka and Contest,GNU C11,Accepted,31 ms,0 KB
+326,55017782,Jun/03/2019 16:13,friedrich_hayek,A - Remove Duplicates,GNU C11,Accepted,30 ms,0 KB
+327,55016521,Jun/03/2019 15:36,friedrich_hayek,A - System Administrator,GNU C11,Accepted,60 ms,0 KB
+328,54995531,Jun/03/2019 01:55,friedrich_hayek,A - Greg's Workout,GNU C11,Accepted,62 ms,0 KB
+329,54995335,Jun/03/2019 01:38,friedrich_hayek,A - The Doors,GNU C11,Accepted,46 ms,0 KB
+330,54995226,Jun/03/2019 01:28,friedrich_hayek,A - Tanya and Stairways,GNU C11,Accepted,31 ms,0 KB
+331,54992582,Jun/02/2019 22:56,friedrich_hayek,A - Again Twenty Five!,GNU C11,Accepted,15 ms,0 KB
+332,54991476,Jun/02/2019 22:03,friedrich_hayek,A - Between the Offices,GNU C11,Accepted,31 ms,0 KB
+333,54991307,Jun/02/2019 21:56,friedrich_hayek,A - Fox And Snake,GNU C11,Accepted,31 ms,0 KB
+334,54989723,Jun/02/2019 20:54,friedrich_hayek,A - Infinity Gauntlet,GNU C11,Accepted,31 ms,0 KB
+335,54978407,Jun/02/2019 14:55,friedrich_hayek,A - Fingerprints,GNU C11,Accepted,30 ms,0 KB
+336,54977117,Jun/02/2019 14:22,friedrich_hayek,A - Points in Segments,GNU C11,Accepted,15 ms,0 KB
+337,54951800,Jun/01/2019 22:31,friedrich_hayek,A - Calculating Function,GNU C11,Wrong answer on test 5,15 ms,0 KB
+338,54951244,Jun/01/2019 22:18,friedrich_hayek,A - I'm bored with life,GNU C11,Accepted,31 ms,0 KB
+339,54950799,Jun/01/2019 22:06,friedrich_hayek,A - Police Recruits,GNU C11,Accepted,31 ms,0 KB
+340,54950191,Jun/01/2019 21:53,friedrich_hayek,A - Boy or Girl,GNU C11,Accepted,62 ms,0 KB
+341,54892676,Jun/01/2019 00:59,friedrich_hayek,"A - Love ""A""",GNU C11,Accepted,31 ms,0 KB
+342,54886894,May/31/2019 20:52,friedrich_hayek,A - Make a triangle!,GNU C11,Accepted,30 ms,0 KB
+343,54886612,May/31/2019 20:40,friedrich_hayek,A - Nastya Is Reading a Book,GNU C11,Accepted,31 ms,0 KB
+344,54873928,May/31/2019 13:50,friedrich_hayek,A - Dice Rolling,GNU C11,Accepted,31 ms,0 KB
+345,54873831,May/31/2019 13:47,friedrich_hayek,A - Dice Rolling,GNU C11,Wrong answer on test 2,15 ms,0 KB
+346,54855723,May/30/2019 22:21,friedrich_hayek,A - HQ9+,GNU C11,Accepted,62 ms,0 KB
+347,54855692,May/30/2019 22:20,friedrich_hayek,A - HQ9+,GNU C11,Wrong answer on test 3,60 ms,0 KB
+348,54855470,May/30/2019 22:11,friedrich_hayek,A - String Task,GNU C11,Accepted,62 ms,0 KB
+349,54819708,May/30/2019 03:53,friedrich_hayek,B - File Name,GNU C11,Accepted,31 ms,0 KB
+350,54819378,May/30/2019 03:20,friedrich_hayek,A - Polycarp's Pockets,GNU C11,Accepted,31 ms,0 KB
+351,54751484,May/28/2019 16:04,friedrich_hayek,A - Black Square,GNU C11,Wrong answer on test 1,31 ms,0 KB
+352,54751335,May/28/2019 15:59,friedrich_hayek,A - Black Square,GNU C11,Runtime error on test 4,15 ms,0 KB
+353,54731235,May/28/2019 03:20,friedrich_hayek,A - Mishka and Game,GNU C11,Accepted,31 ms,0 KB
+354,54731128,May/28/2019 03:09,friedrich_hayek,A - Holiday Of Equality,GNU C11,Accepted,31 ms,0 KB
+355,54723979,May/27/2019 22:03,friedrich_hayek,B - Drinks,GNU C11,Accepted,62 ms,0 KB
+356,54723529,May/27/2019 21:46,friedrich_hayek,A - Magnets,GNU C11,Accepted,92 ms,1700 KB
+357,54723107,May/27/2019 21:32,friedrich_hayek,A - Vanya and Fence,GNU C11,Accepted,31 ms,0 KB
+358,54691108,May/26/2019 20:23,friedrich_hayek,A - Restoring Three Numbers,GNU C11,Accepted,15 ms,0 KB
+359,54686976,May/26/2019 19:54,friedrich_hayek,A - Hit the Lottery,GNU C11,Accepted,31 ms,0 KB
+360,54666359,May/26/2019 16:36,friedrich_hayek,A - Fafa and his Company,GNU C11,Accepted,31 ms,0 KB
+361,54665986,May/26/2019 16:23,friedrich_hayek,A - Gennady and a Card Game,GNU C11,Accepted,31 ms,0 KB
+362,54665872,May/26/2019 16:20,friedrich_hayek,A - Gennady and a Card Game,GNU C11,Wrong answer on test 1,0 ms,0 KB
+363,54642830,May/25/2019 23:45,friedrich_hayek,A - In Search of an Easy Problem,GNU C11,Accepted,31 ms,0 KB
+364,54642661,May/25/2019 23:37,friedrich_hayek,A - Wrong Subtraction,GNU C11,Accepted,30 ms,0 KB
+365,54637445,May/25/2019 20:48,friedrich_hayek,A - Anton and Polyhedrons,GNU C11,Accepted,77 ms,6500 KB
+366,54621485,May/25/2019 15:29,friedrich_hayek,A - Stones on the Table,GNU C11,Accepted,62 ms,0 KB
+367,54573735,May/25/2019 00:21,friedrich_hayek,A - Vasya the Hipster,GNU C11,Accepted,31 ms,0 KB
+368,54564689,May/24/2019 18:44,friedrich_hayek,A - I_love_\%username\%,GNU C11,Accepted,62 ms,0 KB
+369,54564291,May/24/2019 18:32,friedrich_hayek,A - Hulk,GNU C11,Accepted,31 ms,0 KB
+370,54556002,May/24/2019 14:39,friedrich_hayek,A - Anton and Danik,GNU C11,Accepted,15 ms,100 KB
+371,54536319,May/23/2019 23:28,friedrich_hayek,A - Translation,GNU C11,Accepted,62 ms,0 KB
+372,54536051,May/23/2019 23:14,friedrich_hayek,A - Beautiful Year,GNU C11,Accepted,30 ms,0 KB
+373,54500292,May/22/2019 23:20,friedrich_hayek,A - Magnets,GNU C11,Wrong answer on test 1,30 ms,0 KB
+374,54453298,May/21/2019 17:35,friedrich_hayek,A - Calculating Function,GNU C11,Wrong answer on test 5,31 ms,0 KB
+375,54453147,May/21/2019 17:32,friedrich_hayek,A - Bear and Big Brother,GNU C11,Accepted,31 ms,0 KB
+376,54453122,May/21/2019 17:31,friedrich_hayek,A - Bear and Big Brother,GNU C11,Wrong answer on test 1,15 ms,0 KB
+377,54453100,May/21/2019 17:30,friedrich_hayek,A - Bear and Big Brother,GNU C11,Compilation error,0 ms,0 KB
+378,54452817,May/21/2019 17:23,friedrich_hayek,A - Arrival of the General,GNU C11,Accepted,62 ms,0 KB
+379,54418403,May/20/2019 16:59,friedrich_hayek,A - Nearly Lucky Number,GNU C11,Wrong answer on test 7,30 ms,0 KB
+380,54418372,May/20/2019 16:58,friedrich_hayek,A - Nearly Lucky Number,GNU C11,Wrong answer on test 3,62 ms,0 KB
+381,54418353,May/20/2019 16:57,friedrich_hayek,A - Nearly Lucky Number,GNU C11,Wrong answer on test 1,30 ms,0 KB
+382,54402922,May/20/2019 06:02,friedrich_hayek,A - Word,GNU C11,Wrong answer on test 2,30 ms,0 KB
+383,54402909,May/20/2019 06:01,friedrich_hayek,A - Word,GNU C11,Wrong answer on test 1,30 ms,0 KB
+384,54402836,May/20/2019 05:56,friedrich_hayek,A - Word,GNU C11,Wrong answer on test 1,30 ms,0 KB
+385,54402693,May/20/2019 05:45,friedrich_hayek,A - Elephant,GNU C11,Accepted,31 ms,0 KB
+386,54397928,May/20/2019 01:20,friedrich_hayek,A - George and Accommodation,GNU C11,Accepted,31 ms,0 KB
+387,54397692,May/20/2019 01:00,friedrich_hayek,A - cAPS lOCK,GNU C11,Accepted,31 ms,0 KB
+388,54397669,May/20/2019 00:57,friedrich_hayek,A - cAPS lOCK,GNU C11,Wrong answer on test 2,31 ms,0 KB
+389,54397656,May/20/2019 00:56,friedrich_hayek,A - cAPS lOCK,GNU C11,Wrong answer on test 2,30 ms,0 KB
+390,54397652,May/20/2019 00:55,friedrich_hayek,A - cAPS lOCK,GNU C11,Compilation error,0 ms,0 KB
+391,54391586,May/19/2019 19:41,friedrich_hayek,A - HQ9+,GNU C11,Wrong answer on test 10,30 ms,0 KB
+392,54391485,May/19/2019 19:37,friedrich_hayek,A - HQ9+,GNU C11,Wrong answer on test 10,30 ms,0 KB
+393,54391375,May/19/2019 19:33,friedrich_hayek,A - HQ9+,GNU C11,Wrong answer on test 10,62 ms,0 KB
+394,54391331,May/19/2019 19:31,friedrich_hayek,A - HQ9+,GNU C11,Wrong answer on test 1,30 ms,0 KB
+395,54391065,May/19/2019 19:20,friedrich_hayek,A - Tram,GNU C11,Accepted,62 ms,0 KB
+396,54385421,May/19/2019 16:06,friedrich_hayek,A - Beautiful Matrix,GNU C11,Accepted,62 ms,0 KB
+397,54385310,May/19/2019 16:03,friedrich_hayek,A - Beautiful Matrix,GNU C11,Wrong answer on test 1,30 ms,0 KB
+398,54385257,May/19/2019 16:01,friedrich_hayek,A - Beautiful Matrix,GNU C11,Wrong answer on test 1,30 ms,0 KB
+399,54385207,May/19/2019 16:00,friedrich_hayek,A - Beautiful Matrix,GNU C11,Wrong answer on test 1,30 ms,0 KB
+400,54385188,May/19/2019 15:59,friedrich_hayek,A - Beautiful Matrix,GNU C11,Wrong answer on test 1,30 ms,0 KB
+401,54361459,May/19/2019 00:00,friedrich_hayek,A - Young Physicist,GNU C11,Accepted,62 ms,0 KB
+402,54361329,May/18/2019 23:54,friedrich_hayek,A - Soldier and Bananas,GNU C11,Accepted,31 ms,0 KB
+403,54361234,May/18/2019 23:49,friedrich_hayek,A - Lucky Division,GNU C11,Accepted,62 ms,0 KB
+404,54361134,May/18/2019 23:44,friedrich_hayek,A - Lucky Division,GNU C11,Runtime error on test 1,30 ms,0 KB
+405,54361091,May/18/2019 23:42,friedrich_hayek,A - Lucky Division,GNU C11,Runtime error on test 1,0 ms,0 KB
+406,54361037,May/18/2019 23:40,friedrich_hayek,A - Lucky Division,GNU C11,Wrong answer on test 3,60 ms,0 KB
+407,54361006,May/18/2019 23:39,friedrich_hayek,A - Lucky Division,GNU C11,Runtime error on test 1,0 ms,0 KB
+408,54359851,May/18/2019 22:50,friedrich_hayek,A - Word Capitalization,GNU C11,Accepted,62 ms,0 KB
+409,54359684,May/18/2019 22:43,friedrich_hayek,A - Football,GNU C11,Accepted,62 ms,0 KB
+410,54359628,May/18/2019 22:41,friedrich_hayek,A - Football,GNU C11,Wrong answer on test 41,62 ms,0 KB
+411,54359538,May/18/2019 22:38,friedrich_hayek,A - Football,GNU C11,Runtime error on test 1,30 ms,0 KB
+412,54359501,May/18/2019 22:37,friedrich_hayek,A - Football,GNU C11,Runtime error on test 1,30 ms,0 KB
+413,54359467,May/18/2019 22:35,friedrich_hayek,A - Football,GNU C11,Runtime error on test 1,30 ms,0 KB
+414,54359400,May/18/2019 22:33,friedrich_hayek,A - Football,GNU C11,Runtime error on test 1,30 ms,0 KB
+415,54358927,May/18/2019 22:17,friedrich_hayek,A - Petya and Strings,GNU C11,Accepted,62 ms,0 KB
+416,54358430,May/18/2019 21:59,friedrich_hayek,A - Bit++,GNU C11,Accepted,31 ms,100 KB
+417,54358375,May/18/2019 21:57,friedrich_hayek,A - Bit++,GNU C11,Runtime error on test 1,15 ms,0 KB
+418,54358353,May/18/2019 21:56,friedrich_hayek,A - Bit++,GNU C11,Wrong answer on test 2,15 ms,0 KB
+419,54358320,May/18/2019 21:55,friedrich_hayek,A - Bit++,GNU C11,Wrong answer on test 2,15 ms,0 KB
+420,54358267,May/18/2019 21:54,friedrich_hayek,A - Bit++,GNU C11,Wrong answer on test 2,15 ms,0 KB
+421,54358237,May/18/2019 21:52,friedrich_hayek,A - Bit++,GNU C11,Wrong answer on test 2,15 ms,0 KB
+422,54358191,May/18/2019 21:51,friedrich_hayek,A - Bit++,GNU C11,Compilation error,0 ms,0 KB
+423,54023987,May/12/2019 14:27,friedrich_hayek,A - String Task,GNU C11,Compilation error,0 ms,0 KB
+424,54023865,May/12/2019 14:23,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 2,30 ms,0 KB
+425,54023724,May/12/2019 14:18,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 2,30 ms,0 KB
+426,54023697,May/12/2019 14:18,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 1,30 ms,0 KB
+427,54023628,May/12/2019 14:15,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 2,30 ms,0 KB
+428,54023581,May/12/2019 14:14,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 1,30 ms,0 KB
+429,54023522,May/12/2019 14:12,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 2,30 ms,0 KB
+430,54023481,May/12/2019 14:11,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 1,92 ms,0 KB
+431,54023439,May/12/2019 14:09,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 1,30 ms,0 KB
+432,54023403,May/12/2019 14:08,friedrich_hayek,A - String Task,GNU C11,Wrong answer on test 1,60 ms,0 KB
+433,54023231,May/12/2019 14:02,friedrich_hayek,A - String Task,GNU C11,Compilation error,0 ms,0 KB
+434,54002611,May/11/2019 20:25,friedrich_hayek,A - Next Round,GNU C11,Accepted,62 ms,0 KB
+435,54002484,May/11/2019 20:20,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 6,62 ms,0 KB
+436,54002450,May/11/2019 20:18,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 1,30 ms,0 KB
+437,54002376,May/11/2019 20:15,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 1,30 ms,0 KB
+438,54002312,May/11/2019 20:12,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 1,30 ms,0 KB
+439,54002291,May/11/2019 20:12,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 1,0 ms,0 KB
+440,54002206,May/11/2019 20:08,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 3,60 ms,0 KB
+441,54002137,May/11/2019 20:05,friedrich_hayek,A - Next Round,GNU C11,Wrong answer on test 1,30 ms,0 KB
+442,53997674,May/11/2019 18:27,friedrich_hayek,A - Way Too Long Words,GNU C11,Accepted,31 ms,0 KB
+443,53997535,May/11/2019 18:23,friedrich_hayek,A - Way Too Long Words,GNU C11,Runtime error on test 1,15 ms,0 KB
+444,53997511,May/11/2019 18:22,friedrich_hayek,A - Way Too Long Words,GNU C11,Compilation error,0 ms,0 KB
+445,53997465,May/11/2019 18:21,friedrich_hayek,A - Way Too Long Words,GNU C11,Compilation error,0 ms,0 KB
+446,53972007,May/11/2019 01:10,friedrich_hayek,A - Theatre Square,GNU C11,Wrong answer on test 1,15 ms,0 KB
+447,53971962,May/11/2019 01:07,friedrich_hayek,A - Theatre Square,GNU C11,Wrong answer on test 9,31 ms,0 KB
+448,53971930,May/11/2019 01:05,friedrich_hayek,A - Theatre Square,GNU C11,Wrong answer on test 9,31 ms,0 KB
+449,53971858,May/11/2019 01:00,friedrich_hayek,A - Theatre Square,GNU C11,Wrong answer on test 2,15 ms,0 KB
+450,53971684,May/11/2019 00:51,friedrich_hayek,A - Watermelon,GNU C11,Accepted,62 ms,0 KB
+451,53971608,May/11/2019 00:46,friedrich_hayek,A - Watermelon,GNU C11,Wrong answer on test 5,60 ms,0 KB
+452,53971548,May/11/2019 00:43,friedrich_hayek,A - Watermelon,GNU C11,Compilation error,0 ms,0 KB
