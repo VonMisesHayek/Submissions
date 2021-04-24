@@ -3,4 +3,4 @@ My solutions to some Codeforces problems coded during my spare time mainly to le
 
 The language I used to solve the problems is GNUC11. Last problem added: Network Configuration.
 
-Note: As of 2020-09-10 there are 519 solutions.
+Note: As of 2021-04-24 there are 545 solutions.
