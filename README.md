@@ -3,4 +3,4 @@ My solutions to some Codeforces problems coded during my spare time mainly to le
 
 The language I used to solve the problems is GNUC11. Last problem added: Guess the Permutation.
 
-Note: As of 2021-04-24 there are 545 solutions.
+Note: As of 2023-05-22 there are 601 solutions.
